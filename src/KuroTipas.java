@@ -1,3 +1,3 @@
 public enum KuroTipas {
-    dyzelinas,benzinas;
+    Dyzelis,Benzinas;
 }
