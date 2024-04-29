@@ -40,6 +40,11 @@ public class Klientas {
             return true;
         return false;
     }
+    @Override
+    public String toString(){
+        return "Kliento vardas: " + getVardas() + ". Pavardė: " + getPavarde() + ". El. pašto adresas: " + getEmail() +
+                ". Pakaitinis automobilis: " + getPakaitinisAuto() + ". \n";
+    }
 
 }
 

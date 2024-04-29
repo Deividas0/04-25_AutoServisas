@@ -10,4 +10,6 @@ public class Automobilis {
         this.metai = metai;
         this.kuras = kuras;
     }
+
+
 }
